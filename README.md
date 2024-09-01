@@ -18,17 +18,17 @@ Este conteudo foi desenvolvido durante aulas do bootcamp da DIO.
 
 ### Dashboard
 
-A primeira pagina de ralatório apresenta os dados de vendas por seção.
+A primeira página de ralatório apresenta os dados de vendas por seção, podendo ser filtrada por mes e ano.
 
 ![image](https://github.com/user-attachments/assets/353443c7-83c1-4280-9a51-e5315c47a346)
 
 
-A segunda pagina nos apresenta as vendas e lucros considerando os paises, trazenod uma visao mais ampla de margem de lucro em cada país.
+A segunda página nos apresenta as vendas e lucros considerando os países, trazendo uma visão mais ampla de margem de lucro em cada país.
 
 ![image](https://github.com/user-attachments/assets/02fbda33-c76a-4bf3-9d7a-8b002051f00d)
 
 
-Ao fim do relatório vemos de forma sucinta ua dsitruibuicao de lucro entre os paises assim como a soma total de lucro.
+Ao fim do relatório vemos de forma sucinta uma dsitruibuicão de lucro entre os países assim como a soma total de lucro, tendo de forma mais visual doslucros e vendas em cada país.
 
 ![image](https://github.com/user-attachments/assets/ab0544d7-e82d-491b-9b86-fa921d9e5481)
 
